@@ -8,7 +8,7 @@ public class Commandpromt {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("retigence");
-		System.out.println("command");
+		System.out.println("command1");
 	}
 
 }
